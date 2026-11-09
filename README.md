@@ -38,8 +38,6 @@ ai-methodology-boilerplate/
 
 ### 2. **Backend (Node.js)**
 - APIs REST documentadas em OpenAPI
-- Integração com motores de cálculo da plataforma
-- Rotinas de dados de engenharia
 - Migrações versionadas de banco de dados SQL/NoSQL
 
 ### 3. **Frontend (React)**
